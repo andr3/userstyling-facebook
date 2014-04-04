@@ -2,7 +2,7 @@
 
 Just a simple user style sheet to improve the readability of Facebook new layout through some visual hierarchy
 
-![Screenshot of the user style-sheet in action](https://dl.dropboxusercontent.com/s/ugxco67ir6y8n51/fb_userstyle.jpg?dl=1&token_hash=AAGv9wlrp8cMbFED8sFaanBszCqyLLho2xQYRAxT-4Q_2g)
+![Before and After the user style-sheet is applied](https://dl.dropboxusercontent.com/s/gcdc7wf6d8hy5nm/fb-userstyle-before-after.png?dl=1&token_hash=AAEAdfGb1Hha2yBqT4bY9uNgNV0jG00nJ9ZxRK2RlyLxcg)
 
 ## Warning
 
