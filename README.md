@@ -19,7 +19,7 @@ Use at your own risk.
 1. Go to UserStyles.org: [Facebook April 2014](http://userstyles.org/styles/99954/facebook-april-2014)
 1. Click Install with Stylish
 
-## Want to built upon it?
+## Want to build upon it?
 
 Feel free to fork this and create your own.
 
