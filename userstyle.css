@@ -11,10 +11,14 @@
     ._4lh .timelineUnitContainer .UFIList,
     ._4lh .timelineUnitContainer .UFIRow.UFILikeSentence,
     ._4lh .timelineUnitContainer .UFIRow[class][class],
-    ._4lh .timelineUnitContainer .fbTimelineFeedbackActions {
+    ._4lh .timelineUnitContainer .fbTimelineFeedbackActions,
+    ._4lh .timelineUnitContainer .fbTimelineUFI{
       background-color: #E0E2E6;
     }
 
+    .timelineUnitContainer .uiCommentContainer {
+        padding: 0;
+    }
 
     body .fbTimelineUFI.uiCommentContainer form,
     body ._5vsj._5vsj._5vsj {
@@ -23,7 +27,6 @@
     body *._5vsj .UFIRow a {
       color: #6C758A;
     }
-
     .UFIAddComment {
     background: #F0F1F2 !important;
     margin: 0 !important;
@@ -35,7 +38,6 @@
     font-size: 16px;
     line-height: 1.4;
     }
-
     ._cf_ #globalContainer .fsm, 
     ._cf_ #globalContainer, ._cf_ #globalContainer button, ._cf_ #globalContainer input, ._cf_ #globalContainer label, ._cf_ #globalContainer select, ._cf_ #globalContainer td, ._cf_ #globalContainer textarea, ._cf_ #globalContainer .uiMentionsInput .highlighter, ._cf_ #globalContainer .uiButtonText, ._cf_ #globalContainer .uiButton input, ._cf_ #globalContainer .uiLinkButton input, ._cf_ #globalContainer button.as_link,
     ._5sem ._1_s, ._4lh ._1_s 
